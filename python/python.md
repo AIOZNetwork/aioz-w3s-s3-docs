@@ -1,6 +1,6 @@
 # Getting Started
 
-In this tutorial, we'll guide you through the fundamental steps of interacting with AIOZ W3S using Python. Let's get started!
+In this tutorial, we'll guide you through the fundamental steps of interacting with AIOZ W3S using AWS S3 SDK for Python. Let's get started!
 
 ## 1. Install the dependencies
 

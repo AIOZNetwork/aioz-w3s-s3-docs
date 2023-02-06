@@ -19,7 +19,7 @@ To start using AIOZ Web3 Storage, you need to sign up for an account. Simply vis
 
 Once you've successfully signed up for an account, it's time to create a new bucket to store your data. Simply navigate to the "Buckets" tab and click on the "Create Bucket" button. Give your new bucket a unique name, and make sure to store the passphrase securely to ensure the security of your data.
 
-(screenshot)
+![Create bucket](./images/create-bucket.png "Create bucket")
 
 ### Step 3: Create a Credential
 
@@ -32,7 +32,7 @@ Interacting with AIOZ Web3 Storage using S3 SDKs is effortless, but first, you'l
 
 By following these steps, you'll be able to start interacting with AIOZ Web3 Storage using S3 SDKs with ease. Whether you're looking to store or retrieve data, AIOZ Web3 Storage makes it simple and efficient.
 
-(screenshot)
+![Create credential](./images/create-credential.png "Create credential")
 
 ### Step 4: Unleash the power of AIOZ Web3 Storage
 

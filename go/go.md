@@ -12,7 +12,7 @@ go get
 
 ## 2. Setup the Environment
 
-We will be setting up two environment variables, `ACCESS_KEY` and `SECRET_KEY`, which are required to access the AIOZ W3S service. Assign the values of these variables to the values of your credential that you created in the [AIOZ W3S dashboard](https://dashboard-beta.aioz.storage/access).
+We will be setting up two environment variables, `ACCESS_KEY` and `SECRET_KEY`, which are required to access the AIOZ W3S service. Assign the values of these variables to the values of your credential that you created in the [AIOZ W3S dashboard](https://w3s.storage/access-grants).
 
 ```bash
 export ACCESS_KEY=<your-access-key>

@@ -33,7 +33,7 @@ After you have installed and configured Postman, the following sections show you
 
 ```http
 PUT / HTTP/1.1
-Host: s3-beta.aioz.storage/bucket-name
+Host: w3s.storage/bucket-name
 
 ```
 
@@ -41,7 +41,7 @@ Host: s3-beta.aioz.storage/bucket-name
 
 ```http
 GET / HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 
 ```
 
@@ -49,14 +49,14 @@ Host: s3-beta.aioz.storage
 
 ```http
 GET /bucket-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 ```
 
 ## Upload object
 
 ```http
 PUT /bucket-name/object-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 
 ```
 
@@ -64,7 +64,7 @@ Host: s3-beta.aioz.storage
 
 ```http
 GET /bucket-name/object-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 
 ```
 
@@ -72,7 +72,7 @@ Host: s3-beta.aioz.storage
 
 ```http
 DELETE /bucket-name/object-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 
 ```
 
@@ -80,7 +80,7 @@ Host: s3-beta.aioz.storage
 
 ```http
 POST /?delete HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
   
 ```
 
@@ -88,7 +88,7 @@ Host: s3-beta.aioz.storage
 
 ```http
 DELETE /bucket-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 
 ```
 
@@ -96,7 +96,7 @@ Host: s3-beta.aioz.storage
 
 ```http
 PUT /dest-bucket-name/dest-object-name HTTP/1.1
-Host: s3-beta.aioz.storage
+Host: w3s.storage
 x-amz-copy-source: /bucket-name/object-name
 
 ```
